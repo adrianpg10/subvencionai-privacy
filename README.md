@@ -15,4 +15,4 @@ El perfil del usuario (tipo de empresa, sector, comunidad autónoma) se guarda
 Estos datos nunca salen del dispositivo del usuario.
 
 ## Contacto
-Para cualquier consulta sobre privacidad contacta en: TU_EMAIL_AQUI
+Para cualquier consulta sobre privacidad contacta en: adrimonterrosomusica@gmail.com
